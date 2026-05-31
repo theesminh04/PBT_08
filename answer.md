@@ -131,6 +131,18 @@ console.log(product.specs.ram);          // `16 vì spread { ...product } chỉ 
 
 ---
 
+## PHẦN B — THỰC HÀNH CODE (60 điểm)
+### Bài B1 (20đ) — Quản lý Sản phẩm E-Commerce
+[b1](product_manager.js)
+
+### Bài B2 (20đ) — Giỏ hàng (Shopping Cart) 
+[b2](shopping_cart.js)  
+
+### Bài B3 (20đ) — Higher-Order Functions Challenge  
+[b3](higher_order.js)
+
+---
+
 ## PHẦN C — SUY LUẬN (20 điểm)
 ### Câu C1 (10đ) — Refactor Code
 ```
