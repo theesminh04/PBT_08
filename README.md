@@ -1,26 +1,5 @@
 # PBT_08 - Bài tập JavaScript
 
-* Function Declaration, Function Expression, Arrow Function
-* Closure
-* `var`, `let` và hoisting
-* Array methods: `map`, `filter`, `reduce`, `sort`, `find`
-* Object destructuring và spread operator
-* Higher-order functions
-* Shopping cart sử dụng closure
-* Quản lý sản phẩm E-Commerce
-
-## Danh sách file bài tập
-
-| File     | Nội dung     |
-| ------- | -------- |
-| `a2.js`              | Closure, counter, so sánh `var` và `let` trong `setTimeout`    |
-| `product_manager.js` | Quản lý sản phẩm E-Commerce bằng array methods                 |
-| `shopping_cart.js`   | Giỏ hàng sử dụng closure, không dùng class                     |
-| `higher_order.js`    | Higher-order functions: `pipe`, `memoize`, `debounce`, `retry` |
-| `answer.md`          | Ghi chú, giải thích và câu trả lời lý thuyết                   |
-
-## Mô tả các bài chính
-
 ### Bài B1 - Quản lý sản phẩm E-Commerce
 
 File: [`product_manager.js`](./product_manager.js)
