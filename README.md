@@ -21,17 +21,6 @@
 
 ## Mô tả các bài chính
 
-### Bài A2 - Closure, var và let
-
-File: [`a2.js`](./a2.js)
-
-Nội dung chính:
-
-* Tạo hàm `counter()` sử dụng closure
-* Viết các hàm `increment`, `decrement`, `getCount`
-* Dự đoán output khi gọi các hàm
-* Giải thích sự khác nhau giữa `var` và `let` trong vòng lặp `setTimeout`
-
 ### Bài B1 - Quản lý sản phẩm E-Commerce
 
 File: [`product_manager.js`](./product_manager.js)
